@@ -59,6 +59,8 @@ $Sharpe Ratio= $​$\frac{R_{p}-R_{f}}{\sigma_{p}}$
 
 ![1](img/5.png)
 
+</div>
+
 ## 五、运行结果
 
 程序每一个交易周期都会根据股票的预测值进行判断买入还是买入
@@ -86,4 +88,3 @@ $Sharpe Ratio= $​$\frac{R_{p}-R_{f}}{\sigma_{p}}$
 ![1](img/9.png)
 
 ![1](img/10.png)
-</div>
