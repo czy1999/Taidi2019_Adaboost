@@ -54,7 +54,8 @@ $Sharpe Ratio= $​$\frac{R_{p}-R_{f}}{\sigma_{p}}$
 
 本项目核心步骤是每次训练上一个交易周期的训练数据，然后将当前的因子数据输入模型进行预测分类，来获取收益率为正的股票代码，进行委托下单。每个交易周期训练一次模型，让模型能够适应市场的变化
 
-<div align=center>![1](img/4.png)
+<div align=center>
+![1](img/4.png)
 
 ![1](img/5.png)
 
